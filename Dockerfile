@@ -1,5 +1,5 @@
 # Imagen base
-FROM postgres:latest
+FROM postgres:14
 
 # Variables de entorno
 ENV POSTGRES_USER postgres
